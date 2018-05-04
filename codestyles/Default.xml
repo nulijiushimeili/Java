@@ -1,0 +1,10 @@
+<code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="spark.implicits._" />
+      </array>
+    </option>
+  </ScalaCodeStyleSettings>
+</code_scheme>
