@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".part-00008.crc" type="PLAIN_TEXT" />
       <mapping pattern="spark中的shuffle详解" type="PLAIN_TEXT" />
+      <mapping pattern="cloudare_manager" type="PLAIN_TEXT" />
+      <mapping pattern=".part-00008.crc" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
