@@ -3,7 +3,7 @@
     <property name="created">2018-04-05T01:34:31</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-06-19T15:03:33</property>
+    <property name="modified">2018-06-19T15:09:06</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -21,6 +21,12 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="f6bc2a" />
+      </value>
+    </option>
+    <option name="Scala Keyword">
+      <value>
+        <option name="FOREGROUND" value="ffcf16" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
