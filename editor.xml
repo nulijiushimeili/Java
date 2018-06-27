@@ -4,6 +4,6 @@
     <option name="FONT_FAMILY" value="DejaVu Sans Mono" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
   </component>
 </application>
