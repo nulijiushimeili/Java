@@ -2,6 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="DejaVu Sans Mono" />
+    <option name="LINE_SPACING" value="0.8" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
