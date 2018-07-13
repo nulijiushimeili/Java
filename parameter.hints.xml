@@ -1,0 +1,14 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript" />
+      <blacklist language="Java" />
+      <blacklist language="Rust" />
+      <blacklist language="Scala">
+        <added pattern="java.lang.String.split(regex)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin" />
+    </blacklists>
+  </component>
+</application>
