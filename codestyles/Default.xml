@@ -6,5 +6,6 @@
         <option value="spark.implicits._" />
       </array>
     </option>
+    <option name="TYPE_ANNOTATION_UNIT_TYPE" value="false" />
   </ScalaCodeStyleSettings>
 </code_scheme>

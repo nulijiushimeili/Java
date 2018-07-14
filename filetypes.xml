@@ -2,17 +2,18 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
+      <mapping pattern="cloudare_manager" type="PLAIN_TEXT" />
       <mapping pattern="sbt_note" type="PLAIN_TEXT" />
       <mapping pattern="spark中的shuffle详解" type="PLAIN_TEXT" />
       <mapping pattern="idea配置" type="PLAIN_TEXT" />
       <mapping pattern="datamining" type="PLAIN_TEXT" />
       <mapping pattern="hive_shell_training" type="PLAIN_TEXT" />
       <mapping pattern="crontab定时任务" type="PLAIN_TEXT" />
-      <mapping pattern="cloudare_manager" type="PLAIN_TEXT" />
       <mapping pattern=".part-00008.crc" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
       <mapping ext="shell" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
