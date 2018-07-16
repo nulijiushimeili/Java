@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="cloudare_manager" type="PLAIN_TEXT" />
+      <mapping pattern="issue" type="PLAIN_TEXT" />
       <mapping pattern="sbt_note" type="PLAIN_TEXT" />
       <mapping pattern="sql" type="PLAIN_TEXT" />
       <mapping pattern="spark中的shuffle详解" type="PLAIN_TEXT" />
