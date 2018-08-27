@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignote" type="PLAIN_TEXT" />
       <mapping pattern="mongodb_note" type="PLAIN_TEXT" />
-      <mapping pattern="cloudare_manager" type="PLAIN_TEXT" />
       <mapping pattern="hadoop/txt" type="PLAIN_TEXT" />
       <mapping pattern="issue" type="PLAIN_TEXT" />
       <mapping pattern="sbt_note" type="PLAIN_TEXT" />
@@ -13,6 +13,7 @@
       <mapping pattern="datamining" type="PLAIN_TEXT" />
       <mapping pattern="hive_shell_training" type="PLAIN_TEXT" />
       <mapping pattern="crontab定时任务" type="PLAIN_TEXT" />
+      <mapping pattern="cloudare_manager" type="PLAIN_TEXT" />
       <mapping pattern=".part-00008.crc" type="PLAIN_TEXT" />
       <mapping ext="parquet" type="PLAIN_TEXT" />
       <mapping ext="input" type="PLAIN_TEXT" />
